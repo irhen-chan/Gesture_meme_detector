@@ -1,0 +1,11 @@
+# Computer Vision and AI
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Numerical Computing
+numpy>=1.24.0
+
+# Image Processing
+imageio>=2.30.0
+imageio-ffmpeg>=0.4.8
+Pillow>=10.0.0
