@@ -1,6 +1,9 @@
 # Gesture_meme_detector
 So I built this thing that watches you through your webcam and throws memes at you when you make faces. Yeah, it's as ridiculous as it sounds.
 
+<img width="927" height="959" alt="image" src="https://github.com/user-attachments/assets/aa497c98-0d0c-45f6-b813-307768d4ec2b" />
+
+
 What is this?
 Remember those Instagram filters that react to your face? This is like that but with memes. Stick your tongue out, get a meme. Close your eyes, another meme. Flex your muscles like you're at the gym, boom - Hello Kitty flexing appears.
 Built this using MediaPipe for the face/hand tracking and OpenCV for the video stuff. No sounds yet, but feel free to add them. 
